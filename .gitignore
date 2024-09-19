@@ -1,0 +1,5 @@
+.idea/
+.venv
+build/
+dist/
+image_processing_DIO_JoelPB.egg-info/
